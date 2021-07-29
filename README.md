@@ -7,3 +7,5 @@ https://www.zdnet.com/article/report-chinese-hacking-group-apt40-hides-behind-ne
 https://www.zdnet.com/article/malaysia-warns-of-chinese-hacking-campaign-targeting-government-projects/#ftag=RSSbaffb68
 
 https://securityaffairs.co/wordpress/97582/apt/malaysias-mycert-apt40-attacks.html
+
+https://www.csoonline.com/article/3625480/us-charges-four-suspected-chinese-spies-who-coordinated-apt40-hackers.html#tk.rss_news
