@@ -23,3 +23,7 @@ https://www.zdnet.com/article/microsoft-removed-18-azure-ad-apps-used-by-chinese
 https://www.securityweek.com/microsoft-says-china-linked-hackers-abused-azure-attacks
 
 https://threatpost.com/microsoft-azure-chinese-hackers/159551/
+
+https://therecord.media/apt-groups-from-china-russia-and-india-adopt-novel-attack-technique/
+
+https://www.proofpoint.com/us/blog/threat-insight/injection-new-black-novel-rtf-template-inject-technique-poised-widespread
