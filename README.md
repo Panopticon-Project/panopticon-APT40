@@ -27,3 +27,5 @@ https://threatpost.com/microsoft-azure-chinese-hackers/159551/
 https://therecord.media/apt-groups-from-china-russia-and-india-adopt-novel-attack-technique/
 
 https://www.proofpoint.com/us/blog/threat-insight/injection-new-black-novel-rtf-template-inject-technique-poised-widespread
+
+https://www.ft.com/content/2e4359e4-c0ca-4428-bc7e-456bf3060f45?utm_source=substack&utm_medium=email
