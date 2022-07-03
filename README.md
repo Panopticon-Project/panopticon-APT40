@@ -31,3 +31,5 @@ https://www.proofpoint.com/us/blog/threat-insight/injection-new-black-novel-rtf-
 https://www.ft.com/content/2e4359e4-c0ca-4428-bc7e-456bf3060f45?utm_source=substack&utm_medium=email
 
 https://www.justice.gov/opa/pr/four-chinese-nationals-working-ministry-state-security-charged-global-computer-intrusion
+
+https://intrusiontruth.wordpress.com/2020/01/16/apt40-is-run-by-the-hainan-department-of-the-chinese-ministry-of-state-security/
