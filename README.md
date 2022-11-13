@@ -35,3 +35,5 @@ https://www.justice.gov/opa/pr/four-chinese-nationals-working-ministry-state-sec
 https://intrusiontruth.wordpress.com/2020/01/16/apt40-is-run-by-the-hainan-department-of-the-chinese-ministry-of-state-security/
 
 https://www.proofpoint.com/us/blog/threat-insight/chasing-currents-espionage-south-china-sea
+
+https://twitter.com/threatinsight/status/1590743729287139329
